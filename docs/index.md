@@ -4,7 +4,7 @@ We are building an intelligent agricultural robot designed to improve farming ef
 
 # Team
 
-* Yicheng Yang
+* Yichen Yang
 * Chengchen Weng
 
 
